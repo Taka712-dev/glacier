@@ -114,7 +114,7 @@ const n_ = r => (St("data-v-40460f83"), r = r(), Ct(), r),
         class: "flex"
     },
     b_ = {
-        href: "https://docs.glacier.io/",
+        href: "https://docs.glaciernet.vip",
         target: "_blank",
         class: "flex"
     },
