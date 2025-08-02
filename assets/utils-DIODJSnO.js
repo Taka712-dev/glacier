@@ -625,7 +625,7 @@ const ss = {
         class: "w-28 px-2 hidden md:flex items-center justify-between"
     },
     _s = {
-        href: "https://twitter.com/Glacier_Labs",
+        href: "https://x.com/glaciernet_eth",
         target: "_blank",
         class: "text-gray-400 hover:text-white"
     },
@@ -837,10 +837,10 @@ const ss = {
     ]),
     ct = [{
         title: "Twitter",
-        href: "https://twitter.com/Glacier_Labs"
+        href: "https://x.com/glaciernet_eth"
     }, {
         title: "Telegram",
-        href: "https://t.me/glacier_labs"
+        href: "https://t.me/glaciernet_eth"
     }, {
         title: "Discord",
         href: "https://discord.gg/eYAGGz5W3b"
