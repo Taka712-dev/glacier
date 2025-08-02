@@ -711,24 +711,6 @@ const ss = {
                     title: "Ecosystem",
                     href: "/eco"
                 }, {
-                    title: "Developers",
-                    children: [{
-                        title: "GlacierDA",
-                        desc: "Data availability layer",
-                        icon: j(Kn),
-                        href: "/da"
-                    }, {
-                        title: "Tech docs",
-                        desc: "SDK for developers",
-                        icon: j(Br),
-                        href: "https://sdk.glacier.io/"
-                    }, {
-                        title: "GitHub",
-                        desc: "Code hub to build",
-                        icon: j(Or),
-                        href: "https://github.com/glacier-labs"
-                    }]
-                }, {
                     title: "Resources",
                     children: [{
                         title: "Whitepaper",
@@ -1023,15 +1005,6 @@ const Zs = {
                     }, {
                         title: "GlacierDA",
                         href: "/da"
-                    }]
-                }, {
-                    title: "Developers",
-                    items: [{
-                        title: "Tech Docs",
-                        href: "https://sdk.glacier.io/"
-                    }, {
-                        title: "GitHub",
-                        href: "https://github.com/glacier-labs"
                     }]
                 }, {
                     title: "Resources",
