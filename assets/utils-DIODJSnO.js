@@ -643,7 +643,7 @@ const ss = {
         class: "w-40 hidden md:flex justify-end"
     },
     xs = {
-        href: "https://node.glacier.io/",
+        href: "https://node.glaciernet.vip/",
         target: "_blank"
     },
     vs = we(() => l("span", null, "Glacier Nodes", -1)),
@@ -721,7 +721,7 @@ const ss = {
                         title: "Documentation",
                         desc: "Everything about Glacier",
                         icon: j(dr),
-                        href: "http://docs.glacier.io/"
+                        href: "http://docs.glaciernet.vip/"
                     }, {
                         title: "Dune",
                         desc: "Onchain data traction",
@@ -1013,7 +1013,7 @@ const Zs = {
                         href: "https://docsend.com/view/83c74bw4dvb6mwzj"
                     }, {
                         title: "Documentation",
-                        href: "http://docs.glacier.io/"
+                        href: "http://docs.glaciernet.vip/"
                     }, {
                         title: "Dune",
                         href: "https://dune.com/glacier-network/data"

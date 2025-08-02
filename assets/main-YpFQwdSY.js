@@ -109,7 +109,7 @@ const n_ = r => (St("data-v-40460f83"), r = r(), Ct(), r),
         class: "flex items-center justify-center gap-3 mt-8"
     },
     w_ = {
-        href: "https://node.glacier.io/",
+        href: "https://node.glaciernet.vip/",
         target: "_blank",
         class: "flex"
     },
@@ -24253,13 +24253,13 @@ const Ad = {
         class: "flex items-center justify-center gap-3 mt-5"
     },
     rk = {
-        href: "https://node.glacier.io/",
+        href: "https://node.glaciernet.vip/",
         target: "_blank",
         class: "flex"
     },
     ik = Er(() => b("span", null, "Run Your Nodes", -1)),
     nk = {
-        href: "https://docs.glacier.io/getting-started/glacier-nodes/run-mainnet-nodes/nodes-portal-tutorial",
+        href: "https://docs.glaciernet.vip/getting-started/glacier-nodes/run-mainnet-nodes/nodes-portal-tutorial",
         target: "_blank",
         class: "flex"
     },
@@ -24681,13 +24681,13 @@ const LE = {
         class: "flex flex-col md:flex-row items-center justify-center gap-3 mt-5 mb-24"
     },
     WE = {
-        href: "https://node.glacier.io/",
+        href: "https://node.glaciernet.vip/",
         target: "_blank",
         class: "flex"
     },
     UE = an(() => b("span", null, "Run Your Nodes", -1)),
     YE = {
-        href: "https://docs.glacier.io/getting-started/glacier-nodes/run-mainnet-nodes/nodes-portal-tutorial",
+        href: "https://docs.glaciernet.vip/getting-started/glacier-nodes/run-mainnet-nodes/nodes-portal-tutorial",
         target: "_blank",
         class: "flex"
     },
