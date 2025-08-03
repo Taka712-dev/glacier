@@ -685,7 +685,7 @@ const ss = {
                         href: "/ai"
                     }, {
                         title: "Verifier Nodes",
-                        desc: "Earn GLA on Mainnet",
+                        desc: "Earn GLAI on Mainnet",
                         icon: j(ss),
                         href: "/nodes"
                     }]
@@ -753,11 +753,11 @@ const ss = {
                     class: "flex items-center gap-2",
                     onClick: s
                 }, cs)]), l("div", ls, [z("a", {
-                    href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=ComingSoon",
+                    href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xc0a40072ad30c773a03592261849f3dc865adb23",
                     target:  "_blank",
                 }, {
                     default: W(() => [z(He, null, {
-                        default: W(() => [pe(" Buy GLA ")]),
+                        default: W(() => [pe(" Buy GLAI ")]),
                         _: 1
                     })]),
                     _: 1
