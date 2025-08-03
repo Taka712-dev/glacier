@@ -24743,12 +24743,12 @@ const LE = {
     },
     u4 = Jc(() => b("div", {
         class: "text-center text-3xl md:text-[64px] leading-[1.1em] font-display mt-12"
-    }, [b("div", null, "Glacier Network $GLS"), b("div", {
+    }, [b("div", null, "Glacier Network $GLA"), b("div", {
         class: "linear-text"
     }, "The Core of the Glacier Ecosystem")], -1)),
     c4 = Jc(() => b("div", {
         class: "text-center mt-3 text-white/80 text-sm md:text-xl px-5"
-    }, " $GLS is currently listed and live on multiple networks, DEX and CEX. ", -1)),
+    }, " $GLA is currently listed and live on multiple networks, DEX and CEX. ", -1)),
     f4 = Jc(() => b("div", {
         class: "banner-bg"
     }, null, -1)),
@@ -24856,7 +24856,7 @@ const LE = {
         path: "/nodes",
         component: QE
     }, {
-        path: "/buygls",
+        path: "/buyGLA",
         component: m4
     }],
     y4 = r_({

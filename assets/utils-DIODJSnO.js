@@ -685,7 +685,7 @@ const ss = {
                         href: "/ai"
                     }, {
                         title: "Verifier Nodes",
-                        desc: "Earn GLS on Mainnet",
+                        desc: "Earn GLA on Mainnet",
                         icon: j(ss),
                         href: "/nodes"
                     }]
@@ -757,7 +757,7 @@ const ss = {
                     target:  "_blank",
                 }, {
                     default: W(() => [z(He, null, {
-                        default: W(() => [pe(" Buy GLS ")]),
+                        default: W(() => [pe(" Buy GLA ")]),
                         _: 1
                     })]),
                     _: 1
