@@ -977,13 +977,9 @@ const Zs = {
         class: "flex-1"
     },
     wo = De(() => l("a", {
-        href: "",
-        class: "hover:underline"
-    }, "Privacy Policy", -1)),
+    }, "", -1)),
     _o = De(() => l("a", {
-        href: "",
-        class: "hover:underline"
-    }, "Terms of use", -1)),
+    }, "", -1)),
     go = Oe({
         __name: "Footer",
         setup(e) {
